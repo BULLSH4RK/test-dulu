@@ -8,5 +8,10 @@
 <body>
     <h1>halo dunia</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas ex libero amet fugit in sunt voluptatum rem obcaecati praesentium culpa accusantium, ea, dolorum quis sapiente illo doloremque, et autem dolores?</p>
-</body>
+    <ul>
+    <li>satu</li>
+    <li>dua</li>
+    <li>tiga</li>
+    </ul>
+ </body>
 </html>
